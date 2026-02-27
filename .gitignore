@@ -1,0 +1,20 @@
+# Ignore dataset
+HIT-UAV-Infrared-Thermal-Dataset-main/
+
+# Ignore GroundingDINO repo
+GroundingDINO/
+
+# Ignore model weights
+*.pth
+
+# Ignore outputs
+*.json
+*.csv
+
+# Ignore images
+*.jpg
+*.png
+
+# Python cache
+__pycache__/
+*.pyc
